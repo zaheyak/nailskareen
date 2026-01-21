@@ -86,7 +86,7 @@ function App() {
               <img src="/images/nail manger.jpeg" alt="מנהלת הסלון" className="gallery-image gallery-image-top" />
             </div>
             <div className="gallery-item" onClick={() => setSelectedGalleryImage('/images/store.jpeg')}>
-              <img src="/images/store1.jpeg" alt="הסלון" className="gallery-image gallery-image-top" />
+              <img src="/images/store.jpeg" alt="הסלון" className="gallery-image gallery-image-top" />
             </div>
             <div className="gallery-item" onClick={() => setSelectedGalleryImage('/images/store2.jpeg')}>
               <img src="/images/store2.jpeg" alt="הסלון" className="gallery-image gallery-image-top" />
