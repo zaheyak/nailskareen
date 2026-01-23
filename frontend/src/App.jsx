@@ -39,7 +39,7 @@ const catalogItems = [
   },
   {
     id: 5,
-    name: 'פרנש',
+    name: 'תוספת פרנש ',
     price: '30₪',
     image: '/images/frensh nails.jpeg',
     description: 'עיצוב פרנש קלאסי ואלגנטי'
